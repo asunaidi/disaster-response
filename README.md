@@ -16,13 +16,13 @@ No libraries are needed other than the ones provided by Anaconda. The code was b
 
 
 ## Running Instructions
-### ***Run process_data.py***
+* **Run process_data.p**
 In your terminal, navigate to ‘data folder and run the following command: 
 `python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse.db`
-### ***Run train_classifier.py***
+* **Run train_classifier.py**
 In your terminal, navigate to the ‘models’ folder and run the following command: 
 `python train_classifier.py data/DisasterResponse.db classifier.pkl`
-### ***Run the Disaster App***
+* **Run the Disaster App**
 In your terminal, navigate to the ‘app’ folder and run the following command: 
     `python run.py`
 Go to http://0.0.0.0:3001/
