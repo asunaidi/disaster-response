@@ -31,6 +31,6 @@ In your terminal, navigate to the ‘models’ folder and run the following comm
 
 In your terminal, navigate to the ‘app’ folder and run the following command: 
 
-    `python run.py`
+`python run.py`
     
 Go to http://0.0.0.0:3001/
